@@ -36,6 +36,27 @@
         ]
       },
       {
+        "map": "VERSE ep. II",
+        "characters": [
+          {
+            "id": "v_2_1",
+            "name": "アルミナ・フラム"
+          },
+          {
+            "id": "v_2_2",
+            "name": "エレハイム・エルデ"
+          },
+          {
+            "id": "v_2_3",
+            "name": "メア・グランディーネ"
+          },
+          {
+            "id": "v_2_4",
+            "name": "リエア・リエル"
+          }
+        ]
+      },
+      {
         "map": "UNLOCK CHALLENGE",
         "characters": [
           {

@@ -2,7 +2,7 @@
     {
         "id": "2713",
         "catname": "POPS & ANIME",
-        "newflag": "1",
+        "newflag": "0",
         "title": "ジョハリ",
         "reading": "シヨハリ",
         "artist": "Nornis",
@@ -9362,7 +9362,7 @@
     {
         "id": "2796",
         "catname": "VARIETY",
-        "newflag": "1",
+        "newflag": "0",
         "title": "Black MInD",
         "reading": "BLACKMIND",
         "artist": "COSIO「グルーヴコースター」",
@@ -9378,7 +9378,7 @@
     {
         "id": "2797",
         "catname": "VARIETY",
-        "newflag": "1",
+        "newflag": "0",
         "title": "It's a pit world",
         "reading": "ITSAPITWORLD",
         "artist": "Shohei Tsuchiya(ZUNTATA)「グルーヴコースター」",
@@ -9394,7 +9394,7 @@
     {
         "id": "2798",
         "catname": "VARIETY",
-        "newflag": "1",
+        "newflag": "0",
         "title": "VOLT",
         "reading": "VOLT",
         "artist": "aran「グルーヴコースター」",
@@ -12610,7 +12610,7 @@
     {
         "id": "2799",
         "catname": "VARIETY",
-        "newflag": "1",
+        "newflag": "0",
         "title": "キミとボクへの葬送歌",
         "reading": "キミトホクヘノソウソウカ",
         "artist": "ROKINA",
@@ -13118,6 +13118,22 @@
         "we_kanji": "",
         "we_star": "",
         "image": "70c5dde74ceaedc5.jpg"
+    },
+    {
+        "id": "2733",
+        "catname": "イロドリミドリ",
+        "newflag": "1",
+        "title": "We don't need tears!",
+        "reading": "WEDONTNEEDTEARS",
+        "artist": "舞ヶ原シンセ研究会",
+        "lev_bas": "3",
+        "lev_adv": "5",
+        "lev_exp": "9+",
+        "lev_mas": "13+",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "17767978b8467635.jpg"
     },
     {
         "id": "150",
@@ -16818,7 +16834,7 @@
     {
         "id": "2738",
         "catname": "ゲキマイ",
-        "newflag": "1",
+        "newflag": "0",
         "title": "Lostwizz",
         "reading": "LOSTWIZZ",
         "artist": "s-don",
@@ -22928,6 +22944,70 @@
         "image": "51eef3deb8f107e2.jpg"
     },
     {
+        "id": "2728",
+        "catname": "ORIGINAL",
+        "newflag": "1",
+        "title": "〚隔絶〛 ～Flame of Determination",
+        "reading": "カクセツFLAMEOFDETERMINATION",
+        "artist": "TERU FOX × Yukino feat. Iris",
+        "lev_bas": "3",
+        "lev_adv": "5",
+        "lev_exp": "11",
+        "lev_mas": "14",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "1a880af79d83978f.jpg"
+    },
+    {
+        "id": "2729",
+        "catname": "ORIGINAL",
+        "newflag": "1",
+        "title": "〚献身〛 ～Paradox of Choice",
+        "reading": "ケンシンPARADOXOFCHOICE",
+        "artist": "Jehezukiel × KURORAK (feat. HideKy)",
+        "lev_bas": "5",
+        "lev_adv": "8",
+        "lev_exp": "13+",
+        "lev_mas": "15",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "5ba179b634d14f5c.jpg"
+    },
+    {
+        "id": "2730",
+        "catname": "ORIGINAL",
+        "newflag": "1",
+        "title": "〚盲従〛 ～Fantasia Sonata Flower",
+        "reading": "モウシユウFANTASIASONATAFLOWER",
+        "artist": "P3-Studio",
+        "lev_bas": "4",
+        "lev_adv": "6",
+        "lev_exp": "12+",
+        "lev_mas": "14+",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "06fe37985815a597.jpg"
+    },
+    {
+        "id": "2731",
+        "catname": "ORIGINAL",
+        "newflag": "1",
+        "title": "〚空虚〛 ～Pyrophilia",
+        "reading": "クウキヨPYROPHILIA",
+        "artist": "Black Box × Spyro Kong",
+        "lev_bas": "4",
+        "lev_adv": "7+",
+        "lev_exp": "13",
+        "lev_mas": "14+",
+        "lev_ult": "",
+        "we_kanji": "",
+        "we_star": "",
+        "image": "4ce13595f1813193.jpg"
+    },
+    {
         "id": "8292",
         "catname": "POPS & ANIME",
         "newflag": "0",
@@ -23886,8 +23966,7 @@
         "we_kanji": "止",
         "we_star": "1",
         "image": "e4c034fc74ff62fc.jpg"
-    }
-,
+    },
     {
         "id": "2166",
         "catname": "削除曲",

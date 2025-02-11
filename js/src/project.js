@@ -71,7 +71,7 @@
             })
         }),
         new XMLHttpRequest);
-        s.open("GET", "https://performai.evilleaker.com/wp-json/thistheme/v1/articlesRest.json", !0),
+        s.open("GET", "https://performai.evilleaker.com/wp-json/thistheme/v1/articlesRest", !0),
         s.responseType = "json",
         s.onload = function() {
             for (var n = this.response, t = Math.min(n.length, 3), o = 0; o < t; o++) {

@@ -5,7 +5,7 @@ var make_top_item = function (image, number) {
   top_item.className = "swiper-slide";
   var top_link = document.createElement("a");
   top_link.className = "top--info__link";
-  top_link.href = `https://info-chunithm.sega.com/download/page/${number}/`;
+  top_link.href = `#`;
   var top_thumb = document.createElement("img");
   top_thumb.srcset = image;
   top_link.appendChild(top_thumb);
